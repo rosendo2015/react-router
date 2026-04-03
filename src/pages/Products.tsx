@@ -6,11 +6,7 @@ export function Products() {
 
     return (
         <div className="products">
-            <nav>
-                <a href="/">Home</a>
-                <a href="/about">About</a>
-                <a href="/products">Products</a>
-            </nav>
+
             <h1>Products</h1>
             {
                 category && <p>Categoria: {category}</p>

@@ -1,0 +1,18 @@
+.user {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+.user p {
+  color: #3d3d3d;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 2rem;
+}
+footer span {
+  font-weight: 700;
+}
